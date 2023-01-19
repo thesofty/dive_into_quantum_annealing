@@ -1,1 +1,1 @@
-# dive_into_quantum_annealing
+# Dive Into Quantum Annealing
